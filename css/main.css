@@ -1,0 +1,54 @@
+body {
+	background-color: hsl(217, 54%, 11%);
+}
+.preview-card {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+	width: 300px;
+	height: 550px;
+	background-color: hsl(216, 50%, 16%);
+	border-radius: 15px;
+}
+#equilibrium {
+	border-radius: 15px;
+	max-width: 100%;
+	max-height: auto;
+	margin-top: 24px;
+}
+.inside-preview-card {
+	max-width: 80%;
+	max-height: auto;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#pp {
+	font-family: Outfit;
+	color: hsl(215, 51%, 70%);
+	font-weight: 300;
+}
+h3 {
+	font-family: Outfit;
+	font-weight: 600;
+	color: white;
+}
+#Last {
+	width: 240px;
+	height: 50px;
+}
+#p1 {
+	font-family: Outfit;
+	color: hsl(178, 100%, 50%);
+	font-weight: 600;
+	float: left;
+	text-align: left;
+}
+#p2 {
+	color: hsl(215, 51%, 70%);
+	float: right;
+	text-align: right;
+}
+#avatar {
+	max-width: 15%;
+	border-image: white solid 1px;
+}
